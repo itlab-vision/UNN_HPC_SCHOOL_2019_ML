@@ -10,6 +10,6 @@
 
 Практические работы:
 
-- [Практическая работы №1](https://github.com/itlab-vision/UNN_HPC_SCHOOL_2019_ML/blob/master/docs/practice1.md).
-- Практическая работы №2.
-- Практическая работы №3.
+- [Практическая работа №1. Инструменты разработки ПО, базовые функции Python, библиотека OpenCV](https://github.com/itlab-vision/UNN_HPC_SCHOOL_2019_ML/blob/master/docs/practice1.md).
+- [Практическая работа №2. Детектирование объектов с использованием глубоких моделей](https://github.com/itlab-vision/UNN_HPC_SCHOOL_2019_ML/blob/master/docs/practice2.md).
+- [Практическая работа №3. Повышение производительности модели детектирования объектов. Применение Calibration Tool в составе OpenVINO toolkit](https://github.com/itlab-vision/UNN_HPC_SCHOOL_2019_ML/blob/master/docs/practice3.md).
